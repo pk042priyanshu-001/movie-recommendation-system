@@ -44,3 +44,7 @@ Once the most similar movie is identified, the system employs collaborative filt
 ## Conclusion
 
 The Movie Recommendation Project, developed by Priyanshu Katiyar, demonstrates the application of data science and analysis techniques to provide users with movie recommendations. This project showcases the use of Python, Pandas, Sklearn, NumPy, regular expressions, and Tkinter to build a functional and user-friendly movie recommendation system. It serves as an excellent example of a practical application of data analysis and GUI development, and can be a starting point for more advanced recommendation systems.
+
+### Before running the recommned.py file download the two data sets from the link given below
+
+google link: https://drive.google.com/drive/folders/1yZcmUN0JJoBHOIkN0-yE6F9qWvSAgcPh?usp=sharing
